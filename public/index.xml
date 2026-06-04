@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>AdmiralUndercover</title>
+		<link>https://example.org/</link>
+		<description>Recent content on AdmiralUndercover</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 04 Jun 2026 12:52:37 +0800</lastBuildDate>
+		
+			<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My First Post</title>
+				<link>https://example.org/posts/my-first-post/</link>
+				<pubDate>Thu, 04 Jun 2026 12:52:37 +0800</pubDate>
+				<guid>https://example.org/posts/my-first-post/</guid>
+				<description>&lt;p&gt;The Winter Prologue&lt;/p&gt;&#xA;&lt;p&gt;I remember, a long time ago – way before I was tall enough to see out to stretch my head out to look through the window of the car – Eliza’s mother used to take me and Eliza for a ride around the block. When you’re at that height and you can see nothing outside, you lose perspective. Even if we were only going a short distance away from her house – to the field opposite AMC – that felt like a cross-country road trip. Time didn’t seem to come by very quickly either. When you’re that small it’s difficult to keep track of time – minutes seem to go by like hours, and hours seem to go by like days.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
