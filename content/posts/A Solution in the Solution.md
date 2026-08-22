@@ -1,6 +1,6 @@
 +++
 draft = false
-title = 'A Solution in the Solution: Shrimp Shells as Means to Mitigate Harmful Algal Blooms'
+title = 'ARTICLE: A Solution in the Solution: Shrimp Shells as Means to Mitigate Harmful Algal Blooms'
 +++
 
 The severity of algal bloom highlights a major shortcoming of the human race: our inability to understand the exponential function and foresee its catastrophic disasters. Consider an elementary question regarding exponentials: if it takes one day for algae to double in population size, and it takes one hundred days for algae to completely cover the lake, then at what day is the lake half-covered? The common, misinformed answer is fifty; but the correct, yet seemingly counterintuitive answer is the ninety-ninth day, because the half-covered pond doubles in size only on the final day. It is this inability of our intuition to understand exponentials which makes environmental crises feel like they emerge from nowhere. By the time the problem is large enough to be noticed, for example, on the ninety-eighth day when the lake is 25% covered with algae, it only takes two more days for the lake to be completely overwhelmed with algae.
